@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SalesManago feature.
+ */
+
+include_once 'salesmanago.features.inc';
